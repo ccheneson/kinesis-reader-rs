@@ -10,3 +10,8 @@ Check out the project and run from a terminal
 cargo build --release
 ```
 
+To run the cli
+```aidl
+kinesis-reader-rs my-stream
+```
+
